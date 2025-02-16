@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, Shanghai Jiao Tong University, 2028 (expected)
 * B.S. in Computer Science, Xi'an Jiao Tong University, 2023
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -29,16 +29,22 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
+
+Research Interest
+======
+* Reliable Memory System (Error Correcting Coding, Memory Array, etc.)
+* Emerging Memory Device (e.g., CXL Memory Expander, Persistent Memory)
+* Data Storage Systems (Cloud Storage Systems, MLsys Storage Systems, etc.)
 
 Publications
 ======
@@ -46,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -60,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
