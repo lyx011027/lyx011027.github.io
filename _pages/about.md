@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yixuan Liu received the B.S. degree in Computer Science from  [Xi&#39;an Jiao Tong University](http://www.cs.xjtu.edu.cn/), Xi'an, China, in 2023. He is currently working toward the Ph.D. degreein  Computer Science with  the [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/) , Shanghai, China. His research interests include Reliable Memory System, Emerging Memory Device and Data Storage Systems.
+Yixuan Liu received the B.S. degree in Computer Science from  [Xi&#39;an Jiao Tong University](http://www.cs.xjtu.edu.cn/), Xi'an, China, in 2023. He is currently working toward the Ph.D under the supervision of [Prof Chentao Wu](https://www.cs.sjtu.edu.cn/~wuct/). . degreein  Computer Science with  the [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/) , Shanghai, China. His research interests include Reliable Memory System, Emerging Memory Device and Data Storage Systems.
 
 News
 ==============================
