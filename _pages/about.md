@@ -12,8 +12,7 @@ News
 ==============================
 Paper accepted by DAC2025, February, 2025
 
-Our paper [CXL-ECC: an Efficient LRC-based on-CXL-Memory-eXpander-Controller ECC to Enhance Reliability and Performance of DRAM Error Correction](https://lyx011027.github.io/publication/DAC-2025-CXL-ECC/) and [MemSeer: Leverage Memory Failure Distinctions and Multi-Grained Prediction in Ultra-Scale Heterogeneous X86/ARM Clusters](https://lyx011027.github.io/publication/DAC-2025-MemSeer/) are accepted by Proceedings of the 62st ACM/IEEE Design Automation Conference.27.github.io/publication/DAC-2025-CXL-ECC/) is accepted by Proceedings of the 62st ACM/IEEE Design Automation Conference.
-
+Our papers [CXL-ECC](https://lyx011027.github.io/publication/DAC-2025-CXL-ECC/) and [MemSeer](https://lyx011027.github.io/publication/DAC-2025-MemSeer/) have been accepted by Proceedings of the 62nd ACM/IEEE Design Automation Conference.
 
 <!-- A data-driven personal website
 ==============================
