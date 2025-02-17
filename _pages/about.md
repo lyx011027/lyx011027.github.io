@@ -12,7 +12,7 @@ News
 ==============================
 Paper accepted by DAC2025, February, 2025
 
-Our papers [CXL-ECC](https://lyx011027.github.io/publication/DAC-2025-CXL-ECC/) and [MemSeer](https://lyx011027.github.io/publication/DAC-2025-MemSeer/) have been accepted by Proceedings of the 62nd ACM/IEEE Design Automation Conference.
+Our papers [CXL-ECC](https://lyx011027.github.io/publication/DAC-2025-CXL-ECC) and [MemSeer](https://lyx011027.github.io/publication/DAC-2025-MemSeer) have been accepted by Proceedings of the 62nd ACM/IEEE Design Automation Conference.
 
 <!-- A data-driven personal website
 ==============================
